@@ -1,0 +1,18 @@
+h1 {
+  text-decoration: underline;
+}
+.content {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.content img {
+  max-width: 100%;
+}
+.content p,
+.content ul,
+.content ol,
+.content blockquote {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
